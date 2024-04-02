@@ -1,1 +1,1 @@
-A small educational game made for UniSat gamification course with GameLab KBTU and UNICEF. [Press release](https://www.unicef.org/kazakhstan/en/press-releases/kazakhstan-schoolgirls-will-master-video-game-development)
+A small educational game made for UniSat gamification course with [GameLab KBTU](https://www.instagram.com/gamelab.kbtu/) and UNICEF. [Press release](https://www.unicef.org/kazakhstan/en/press-releases/kazakhstan-schoolgirls-will-master-video-game-development)
